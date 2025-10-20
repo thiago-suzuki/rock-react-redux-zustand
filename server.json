@@ -1,0 +1,33 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "modules": [
+                {
+                    "id": 1,
+                    "title": "i-dle",
+                    "lessons": [
+                        { "id": "2cevbhEqQF4", "title": "Senorita", "duration": "03:44" },
+                        { "id": "klKKrmRY2R8", "title": "MAZE", "duration": "03:20" },
+                        { "id": "ILmHLmZiVG0", "title": "LOST", "duration": "03:01" },
+                        { "id": "hAONx6nuEgI", "title": "Good Thing", "duration": "02:55" },
+                        { "id": "om3n2ni8luE", "title": "Oh My God", "duration": "03:20" },
+                        { "id": "Jh4QFaPmdss", "title": "TOMBOY", "duration": "03:18" }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "PENTAGON",
+                    "lessons": [
+                        { "id": "ZOg24aJFqXc", "title": "Shower of Rain", "duration": "03:16" },
+                        { "id": "oDyFLIep_SA", "title": "HUMPH", "duration": "03:44" },
+                        { "id": "-wcTkzPZq_4", "title": "SUMMER", "duration": "03:07" },
+                        { "id": "Nu2yQ1zYDYU", "title": "Shine", "duration": "03:22" },
+                        { "id": "W7ZIz4w9Edo", "title": "Daisy", "duration": "03:32" },
+                        { "id": "J1AVaHzxe1A", "title": "Smile", "duration": "03:33" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
