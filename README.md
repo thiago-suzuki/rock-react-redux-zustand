@@ -44,3 +44,8 @@ $ npm run dev
 # Server
 $ npm run server
 ```
+
+<br /><br />
+
+## Link do Deploy
+https://player-musics-rdzs.vercel.app/
