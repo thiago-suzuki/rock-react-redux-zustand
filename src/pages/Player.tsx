@@ -18,10 +18,10 @@ export function Player() {
     const { currentLesson, currentModule } = useCurrentLesson();
 
     useEffect(() => {
-        // setTimeout(() => {
-        //     dispatch(loadCourse())
-        // }, 3000)
-        load();
+        setTimeout(() => {
+            //dispatch(loadCourse())
+            load();
+        }, 3000)
     }, [])
 
     useEffect(() => {
